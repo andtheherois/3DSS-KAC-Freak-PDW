@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+ <!-- 5.56 -->
+	
+       <string id="st_mag_nato_5.56x45_drum">
+		<text>MAGPUL PMAG D-60</text>
+	</string>
+	<string id="st_mag_nato_5.56x45_drum_descr">
+		<text> The MAGPUL PMAG D-60 is a 60-round drum magazine for all STANAG compatible rifles.
+		</text>
+	</string>
+	
+	 <string id="st_mag_nato_5.56x45_drum_ext">
+		<text>KCI 100-Round Gen 2 Drum Magazine</text>
+	</string>
+	<string id="st_mag_nato_5.56x45_drum_ext_descr">
+		<text>The KCI 100 Gen2 Drum Magazine is a 100-round drum magazine for all STANAG compatible rifles.
+		</text>
+	</string>
+	
+	 <string id="st_mag_ak_drum">
+		<text>X-47 Drum Magazine</text>
+	</string>
+	<string id="st_mag_ak_drum_descr">
+		<text>50-round drum magazine for 7.62x39 ak family assault rifles.
+		</text>
+	</string>	
+	
+</string_table>

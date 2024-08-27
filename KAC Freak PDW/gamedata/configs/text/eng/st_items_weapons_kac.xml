@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+	
+
+<string id="st_wpn_m4_pdw">
+		<text>KAC PDW47 Freak</text>
+	</string>
+	<string id="st_wpn_m4_pdw_descr">
+		<text>A special version of KAC PDW redesigned for use in The Zone. The Zone version of the Freak was built to mimic the look and feel of the CMMG MK-47 Mutant - An AR pattern rifle that is chambered in 7.62x39mm and feeds from AK magazines. The Freak is a light weight weapon with the dimensions of a standard submachine gun, an aiming range of 300 meters, and stopping power similar to a full lenght AK-47. Used by ISG special units, Freedom's most elite and the Syndicate. This gun can be permanently upgraded with the Special Upgrade Pack.\n \n</text>
+	</string>	
+
+	<string id="st_wpn_m4_pdw_up_descr">
+		<text>A special version of KAC PDW redesigned for use in The Zone. The Zone version of the Freak was built to mimic the look and feel of the CMMG MK-47 Mutant - An AR pattern rifle that is chambered in 7.62x39mm and feeds from AK magazines. The Freak is a light weight weapon with the dimensions of a standard submachine gun, an aiming range of 300 meters, and stopping power similar to a full lenght AK-47. Used by ISG special units, Freedom's most elite and the Syndicate. This gun has been permanently upgraded with the Special Upgrade Pack\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[0,93,0,116] • %c[0,140,140,140] Spectre 1-4x Scope with deltapoint low profile sight on a 45 degree canted mount, ANPEQ2 LAM, and 50 round drum magazine\n</text>
+	</string>	
+	
+</string_table>
